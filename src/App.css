@@ -56,7 +56,6 @@
 }
 
 .tw-followCard-stopFollow{
-    transition: .3s ease all;
     display: none;
 }
 
